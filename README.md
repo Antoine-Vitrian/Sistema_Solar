@@ -1,2 +1,2 @@
-# Sistema_Solar
-Atividade Sistema Solar - SENAI
+# Sistema-Solar
+Atividade Sistema Solar.
